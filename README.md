@@ -43,19 +43,14 @@ O objetivo é chegar ao tesouro tomando as decisões corretas.
 ## Demonstração
 ### Jogo em execução
 
-Adicione aqui um print do jogo funcionando no terminal:
-
 ```text
-Demonstração
+treasure_island.py python
 ```
-<img src="./images/demo.JPG" alt="Treasure Island em execução" width="700">
+<img src="treasure_game/images/demo.JPG" alt="Treasure Island em execução" width="700">
 
-```markdown
-![Treasure Island em execução](./images/treasure-island.png)
-```
-Diagrama:
+<h3>Diagrama:</h3>
 
-<img src="./images/diagrama_island_treasure.png" alt="Treasure Island em execução" width="700">
+<img src="treasure_game/images/diagrama_island_treasure.png" alt="Treasure Island em execução" width="700">
 
 ## Como executar
 
