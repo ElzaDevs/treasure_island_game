@@ -46,10 +46,9 @@ O objetivo é chegar ao tesouro tomando as decisões corretas.
 Adicione aqui um print do jogo funcionando no terminal:
 
 ```text
-[adicione sua imagem aqui]
+Demonstração
 ```
-
-Depois de colocar a imagem no repositório, você pode substituir o trecho acima por:
+<img src="./images/demo.jpg" alt="Treasure Island em execução" width="700">
 
 ```markdown
 ![Treasure Island em execução](./images/treasure-island.png)
