@@ -48,14 +48,14 @@ Adicione aqui um print do jogo funcionando no terminal:
 ```text
 Demonstração
 ```
-<img src="./images/demo.jpg" alt="Treasure Island em execução" width="700">
+<img src="./images/demo.JPG" alt="Treasure Island em execução" width="700">
 
 ```markdown
 ![Treasure Island em execução](./images/treasure-island.png)
 ```
 Diagrama:
 
-<img src="./images/diagrama_island_treasure" alt="Treasure Island em execução" width="700">
+<img src="./images/diagrama_island_treasure.png" alt="Treasure Island em execução" width="700">
 
 ## Como executar
 
